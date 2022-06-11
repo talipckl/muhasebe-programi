@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="yeniimajservisDataSet5" targetNamespace="http://tempuri.org/yeniimajservisDataSet5.xsd" xmlns:mstns="http://tempuri.org/yeniimajservisDataSet5.xsd" xmlns="http://tempuri.org/yeniimajservisDataSet5.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="yeniimajservisConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="yeniimajservisConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.yeniimaj.Properties.Settings.GlobalReference.Default.yeniimajservisConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="MUHASEBEFISTableAdapter" GeneratorDataComponentClassName="MUHASEBEFISTableAdapter" Name="MUHASEBEFIS" UserDataComponentName="MUHASEBEFISTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="yeniimajservisConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        MUHASEBEFIS.MUHASEBEID, MUHASEBEFIS.TUR, CARI.UNVAN AS CARI, PERSONEL.PERSONELADI + ' ' + PERSONEL.PERSONELSOYADI AS PERSONEL, ARAC.PLAKA AS ARACPLAKA, MUHASEBEFIS.MIKTAR, 
+                         MUHASEBEFIS.ACIKLAMA, MUHASEBEFIS.KDVSIZBIRIMFIYAT, MUHASEBEFIS.TASIMAUCRET AS TASIMAUCRETI, MUHASEBEFIS.GENELTOPLAM, CONVERT(varchar, MUHASEBEFIS.TARIH, 104) AS TARIH
+FROM            MUHASEBEFIS LEFT OUTER JOIN
+                         CARI ON CARI.CARIID = MUHASEBEFIS.CARI LEFT OUTER JOIN
+                         PERSONEL ON PERSONEL.PERSONELID = MUHASEBEFIS.PERSONEL LEFT OUTER JOIN
+                         ARAC ON ARAC.ARACID = MUHASEBEFIS.ARACPLAKA</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MUHASEBEID" DataSetColumn="MUHASEBEID" />
+              <Mapping SourceColumn="TUR" DataSetColumn="TUR" />
+              <Mapping SourceColumn="ARACPLAKA" DataSetColumn="ARACPLAKA" />
+              <Mapping SourceColumn="MIKTAR" DataSetColumn="MIKTAR" />
+              <Mapping SourceColumn="KDVSIZBIRIMFIYAT" DataSetColumn="KDVSIZBIRIMFIYAT" />
+              <Mapping SourceColumn="ACIKLAMA" DataSetColumn="ACIKLAMA" />
+              <Mapping SourceColumn="GENELTOPLAM" DataSetColumn="GENELTOPLAM" />
+              <Mapping SourceColumn="CARI" DataSetColumn="CARI" />
+              <Mapping SourceColumn="PERSONEL" DataSetColumn="PERSONEL" />
+              <Mapping SourceColumn="TASIMAUCRETI" DataSetColumn="TASIMAUCRETI" />
+              <Mapping SourceColumn="TARIH" DataSetColumn="TARIH" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="yeniimajservisDataSet5" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="yeniimajservisDataSet5" msprop:Generator_UserDSName="yeniimajservisDataSet5">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="MUHASEBEFIS" msprop:Generator_TableClassName="MUHASEBEFISDataTable" msprop:Generator_TableVarName="tableMUHASEBEFIS" msprop:Generator_RowChangedName="MUHASEBEFISRowChanged" msprop:Generator_TablePropName="MUHASEBEFIS" msprop:Generator_RowDeletingName="MUHASEBEFISRowDeleting" msprop:Generator_RowChangingName="MUHASEBEFISRowChanging" msprop:Generator_RowEvHandlerName="MUHASEBEFISRowChangeEventHandler" msprop:Generator_RowDeletedName="MUHASEBEFISRowDeleted" msprop:Generator_RowClassName="MUHASEBEFISRow" msprop:Generator_UserTableName="MUHASEBEFIS" msprop:Generator_RowEvArgName="MUHASEBEFISRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MUHASEBEID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnMUHASEBEID" msprop:Generator_ColumnPropNameInRow="MUHASEBEID" msprop:Generator_ColumnPropNameInTable="MUHASEBEIDColumn" msprop:Generator_UserColumnName="MUHASEBEID" type="xs:int" />
+              <xs:element name="TUR" msprop:Generator_ColumnVarNameInTable="columnTUR" msprop:Generator_ColumnPropNameInRow="TUR" msprop:Generator_ColumnPropNameInTable="TURColumn" msprop:Generator_UserColumnName="TUR" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ARACPLAKA" msprop:Generator_ColumnVarNameInTable="columnARACPLAKA" msprop:Generator_ColumnPropNameInRow="ARACPLAKA" msprop:Generator_ColumnPropNameInTable="ARACPLAKAColumn" msprop:Generator_UserColumnName="ARACPLAKA" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MIKTAR" msprop:Generator_ColumnVarNameInTable="columnMIKTAR" msprop:Generator_ColumnPropNameInRow="MIKTAR" msprop:Generator_ColumnPropNameInTable="MIKTARColumn" msprop:Generator_UserColumnName="MIKTAR" type="xs:decimal" minOccurs="0" />
+              <xs:element name="KDVSIZBIRIMFIYAT" msprop:Generator_ColumnVarNameInTable="columnKDVSIZBIRIMFIYAT" msprop:Generator_ColumnPropNameInRow="KDVSIZBIRIMFIYAT" msprop:Generator_ColumnPropNameInTable="KDVSIZBIRIMFIYATColumn" msprop:Generator_UserColumnName="KDVSIZBIRIMFIYAT" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ACIKLAMA" msprop:Generator_ColumnVarNameInTable="columnACIKLAMA" msprop:Generator_ColumnPropNameInRow="ACIKLAMA" msprop:Generator_ColumnPropNameInTable="ACIKLAMAColumn" msprop:Generator_UserColumnName="ACIKLAMA" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="GENELTOPLAM" msprop:Generator_ColumnVarNameInTable="columnGENELTOPLAM" msprop:Generator_ColumnPropNameInRow="GENELTOPLAM" msprop:Generator_ColumnPropNameInTable="GENELTOPLAMColumn" msprop:Generator_UserColumnName="GENELTOPLAM" type="xs:decimal" minOccurs="0" />
+              <xs:element name="CARI" msprop:Generator_ColumnVarNameInTable="columnCARI" msprop:Generator_ColumnPropNameInRow="CARI" msprop:Generator_ColumnPropNameInTable="CARIColumn" msprop:Generator_UserColumnName="CARI" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PERSONEL" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPERSONEL" msprop:Generator_ColumnPropNameInRow="PERSONEL" msprop:Generator_ColumnPropNameInTable="PERSONELColumn" msprop:Generator_UserColumnName="PERSONEL" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="101" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TASIMAUCRETI" msprop:Generator_ColumnVarNameInTable="columnTASIMAUCRETI" msprop:Generator_ColumnPropNameInRow="TASIMAUCRETI" msprop:Generator_ColumnPropNameInTable="TASIMAUCRETIColumn" msprop:Generator_UserColumnName="TASIMAUCRETI" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TARIH" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnTARIH" msprop:Generator_ColumnPropNameInRow="TARIH" msprop:Generator_ColumnPropNameInTable="TARIHColumn" msprop:Generator_UserColumnName="TARIH" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:MUHASEBEFIS" />
+      <xs:field xpath="mstns:MUHASEBEID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

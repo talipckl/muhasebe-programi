@@ -1,0 +1,66 @@
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\bin\Release\yeniimaj.exe.config
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\bin\Release\yeniimaj.exe
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\bin\Release\yeniimaj.pdb
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\bin\Release\EntityFramework.dll
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\bin\Release\EntityFramework.xml
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.csprojAssemblyReference.cache
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\Interop.AdHocReportingExcelClientLib.dll
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.csproj.ResolveComReference.cache
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.arac.resources
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.aracdurum.resources
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.cariislem.resources
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.depo.resources
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.depodurum.resources
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.dogrulama.resources
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.Form1.resources
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.gelirgidercs.resources
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.gider.resources
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.istatiskler.resources
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.menu.resources
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.muhasebefisi.resources
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.personel.resources
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.personeldurum.resources
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.Properties.Resources.resources
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.csproj.GenerateResource.cache
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.csproj.CoreCompileInputs.cache
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.csproj.CopyComplete
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.exe
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.pdb
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.cariborc.resources
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.gelirkayit.resources
+C:\Users\talip\Desktop\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.personelmaas.resources
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\bin\Release\yeniimaj.exe.config
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\bin\Release\yeniimaj.exe
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\bin\Release\yeniimaj.pdb
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\bin\Release\EntityFramework.dll
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\bin\Release\EntityFramework.xml
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.csprojAssemblyReference.cache
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\Interop.AdHocReportingExcelClientLib.dll
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.csproj.ResolveComReference.cache
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.arac.resources
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.aracdurum.resources
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.cariborc.resources
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.cariislem.resources
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.depo.resources
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.depodurum.resources
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.dogrulama.resources
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.Form1.resources
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.gelirgidercs.resources
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.gelirkayit.resources
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.gider.resources
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.istatiskler.resources
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.menu.resources
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.muhasebefisi.resources
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.personel.resources
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.personeldurum.resources
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.personelmaas.resources
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.Properties.Resources.resources
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.csproj.GenerateResource.cache
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.csproj.CoreCompileInputs.cache
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.csproj.CopyComplete
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.exe
+C:\Users\talip\Desktop\Talip _Çakal_ Proje\kaynak kodlar\yeniimajotomasyon\yeniimaj\yeniimaj\obj\Release\yeniimaj.pdb
